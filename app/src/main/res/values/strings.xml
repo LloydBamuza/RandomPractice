@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Practice</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_data_list">ActivityViewDataList</string>
+    <string name="title_activity_user_images">UserImages</string>
+    <string name="title_activity_network_communication">NetworkCommunication</string>
+    <string name="title_activity_server">Server</string>
+</resources>
